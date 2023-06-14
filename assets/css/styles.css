@@ -1,6 +1,9 @@
+/* Sección body */
 .body{
     font-family: 'Noto Serif', serif;
 }
+
+/* sección navbar */
 .navbar{
     margin: 0;
     padding: 0;
@@ -8,17 +11,23 @@
     
 }
 
+/* edición sección navbar-header */
 .navbar-header{
     background-image: url(../img/myself-w-sun-extended.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    filter: brightness(0.8);
+    object-fit: cover;
+    height: 100vh;
 }
 
+/* edición tamaño de logo */
 .img-logo{
     height: 90px;
 }
 
+/*  */
 .img-fluid{
     height: 100vh;
     width: 100vw;
