@@ -1,6 +1,7 @@
 /* Sección body */
 .body{
     font-family: 'Noto Serif', serif;
+    background-color: black;
 }
 
 /* sección navbar */
@@ -37,7 +38,6 @@
 }
 
 .acerca-de-mi{
-    padding: 20vh;
     height: 100vh;
 }
 
@@ -46,6 +46,3 @@
     height: 100vh;
 }
 
-.img-exp{
-    text-align: center;
-}
