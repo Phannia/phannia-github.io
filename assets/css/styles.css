@@ -37,9 +37,12 @@
 }
 
 .acerca-de-mi{
+    padding: 20vh;
     height: 100vh;
 }
 
 .mis-proyectos{
+    padding: 20vh;
     height: 100vh;
+    
 }
